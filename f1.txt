@@ -1,1 +1,2 @@
 primer fichero
+se actualiza fichero en el usuario 2
