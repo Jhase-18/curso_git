@@ -1,3 +1,4 @@
 segundo fichero
 se actualiza fichero en el usuario 2
 se actualiza con usuario 1
+actualizacion de usuario 1 validar usuario 2
